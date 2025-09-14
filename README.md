@@ -6,10 +6,13 @@
 2. project 2
 3. lab 2
 
-'system.out.ln("yo");'
---- 
+`system.out.ln("yo");`
+
 gurt
+--- 
+
 [meaningoflife](https://media1.tenor.com/m/WCVJtVMOrasAAAAd/bird-tripod.gif)
+
 ![he sees you](hi.jfif)
 
 
